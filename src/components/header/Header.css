@@ -1,0 +1,27 @@
+
+.nev-pages{
+    width: 334px;
+
+}
+.logo{
+    
+}
+.navbar{
+    padding: 0px 30px;
+    /* border: solid; */
+    height: 70px;
+}
+.search_bar{
+    width: 100%;
+    margin-right: 10px;
+}
+.btn_section{
+    display: flex;
+    column-gap: 43px;
+    justify-content: center;
+}
+.search_btnnnn{
+    /* border: 1px solid green; */
+    display: flex;
+    justify-content: end;
+}
